@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e1ddc7b3-c81c-47d1-acf9-b0e76a30d763" name="变更" comment="初始化">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/dependency-reduced-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/src/main/java/com/huawenjin/gmall/realtime/app/dim/DimApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/src/main/java/com/huawenjin/gmall/realtime/app/dwd/log/BaseLogApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/src/main/java/com/huawenjin/gmall/realtime/app/dwd/log/DwdTrafficUniqueVisitorDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/src/main/java/com/huawenjin/gmall/realtime/app/dwd/log/DwdTrafficUserJumpDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/src/main/java/com/huawenjin/gmall/realtime/app/func/DimSinkFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/src/main/java/com/huawenjin/gmall/realtime/app/func/TableProcessFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/src/main/java/com/huawenjin/gmall/realtime/bean/TableProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/src/main/java/com/huawenjin/gmall/realtime/common/GmallConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/src/main/java/com/huawenjin/gmall/realtime/utils/DateFormatUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/src/main/java/com/huawenjin/gmall/realtime/utils/DruidDSUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/src/main/java/com/huawenjin/gmall/realtime/utils/MyKafkaUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/src/main/java/com/huawenjin/gmall/realtime/utils/PhoenixUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/src/main/resources/hbase-site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/src/test/java/com/huawenjin/app/FlincSQL_JoinTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/src/test/java/com/huawenjin/app/FlincSQL_LookUp_JoinTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/src/test/java/com/huawenjin/app/FlinkCDCTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/src/test/java/com/huawenjin/bean/WaterSensor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/src/test/java/com/huawenjin/bean/WaterSensor2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PM742c5tdUIrA382pGDa7d07Wa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.huawenjin.app" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.DwdTradeCartAdd">
+    <configuration name="DwdTradeCartAdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.huawenjin.gmall.realtime.app.dwd.db.DwdTradeCartAdd" />
+      <module name="gmall-realtimme" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huawenjin.gmall.realtime.app.dwd.db.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DwdTradeOrderDetail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.huawenjin.gmall.realtime.app.dwd.db.DwdTradeOrderDetail" />
+      <module name="gmall-realtimme" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huawenjin.gmall.realtime.app.dwd.db.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DwdTradeOrderPreProcess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.huawenjin.gmall.realtime.app.dwd.db.DwdTradeOrderPreProcess" />
+      <module name="gmall-realtimme" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huawenjin.gmall.realtime.app.dwd.db.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlincSQL_LookUp_JoinTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.huawenjin.app.FlincSQL_LookUp_JoinTest" />
+      <module name="gmall-realtimme" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huawenjin.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Flinc_Upsert_Kafka_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.huawenjin.app.Flinc_Upsert_Kafka_Test" />
+      <module name="gmall-realtimme" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huawenjin.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.DwdTradeCartAdd" />
+        <item itemvalue="应用程序.DwdTradeOrderDetail" />
+        <item itemvalue="应用程序.DwdTradeOrderPreProcess" />
+        <item itemvalue="应用程序.Flinc_Upsert_Kafka_Test" />
+        <item itemvalue="应用程序.FlincSQL_LookUp_JoinTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="e1ddc7b3-c81c-47d1-acf9-b0e76a30d763" name="变更" comment="" />
+      <created>1683254903690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683254903690</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初始化" />
+    <option name="LAST_COMMIT_MESSAGE" value="初始化" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.apache.calcite.runtime.CalciteContextException" package="org.apache.calcite.runtime" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
